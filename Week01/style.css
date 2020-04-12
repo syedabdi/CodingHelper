@@ -1,0 +1,14 @@
+.Main-Heading {
+    color: red;
+}
+
+.Sub-Heading {
+    color: green;
+    font-size: 1.5em;
+}
+
+.Main-Paragraph {
+    color: red;
+    font-size: 1.2em;
+    font-weight: bold
+}
